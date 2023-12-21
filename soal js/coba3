@@ -1,0 +1,11 @@
+// let jamlembur = prompt("masukan jam lembur anda");
+
+// if (jamlembur < 6) {
+//     console.log("upah Rp100.000,00");
+// } else if (jamlembur == 6) {
+//     console.log("upah Rp200.000,00");
+// } else if (jamlembur > 6) {
+//     console.log("upah Rp300.000,00");
+// } else {
+//     console.log("hanya isi dengan angka");
+// };

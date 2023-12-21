@@ -1,0 +1,15 @@
+// let barang1 = prompt("barang 1");
+// let barang2 = prompt("barang 2");
+// let barang3 = prompt("barang 3");
+// let hargabaru = Number(barang1)+Number(barang2)+Number(barang3);
+// if(hargabaru > 100000) {
+//     hasil = hargabaru*10/100;
+//     hasilasli = (hargabaru-hasil);
+//     console.log(`harga asli = Rp${hargabaru}`);
+//     console.log(`besar diskon Rp${hasil}`);
+//     console.log(`harga setelah diskon Rp${hasilasli}`);
+// } else if (hargabaru <= 100000) {
+//     hasilasli = hargabaru;
+//     console.log(`harga asli = Rp${hargabaru}`);
+// } else {};
+

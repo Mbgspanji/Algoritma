@@ -1,0 +1,13 @@
+// let angka = prompt("masukan selain angka 0");
+
+// if (angka%2 == 0 && angka > 0) {
+//     console.log("genap positif");
+// } else if (angka%2 == 0 && angka < 0)  {
+//     console.log("genap negatif");
+// } else if (angka%2 == 1 && angka > 0) {
+//     console.log("ganjil positif");
+// } else if (angka%2 == 1 && angka < 0) {
+//     console.log("ganjil negatif");
+// } else if (angka == 0) {
+//     console.log("masukan selain 0");
+// } else {};

@@ -1,0 +1,15 @@
+// let a = 20;
+// let b = 30;
+// let lsegitiga = a*b*0.5;
+
+// console.log('luas=', lsegitiga);
+// const phi =3.14;
+
+// let lpersegi = 64;
+// let sisi = Math.sqrt(64);
+// let kpersegi = sisi*4;
+// let luaspersegi = sisi**2;
+
+
+// console.log('kpersegi =', kpersegi);
+// console.log(`luas = ${luaspersegi}`);

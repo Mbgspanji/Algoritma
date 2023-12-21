@@ -1,0 +1,6 @@
+let nilai = prompt
+if (nilai >= 90 && nilai <= 100) {
+    console.log("nilai sempurna dan lolos");  
+} else if (nilai >= 80 && nilai < 90 ) {
+    jalur = (jalur rapot )
+}

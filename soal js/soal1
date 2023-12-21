@@ -1,0 +1,22 @@
+// let PABP = 70;
+// let Matematika = 82;
+// let DPK = 77;
+// let rata2 = (PABP + Matematika + DPK)/3;
+
+
+// if (rata2>=80 && rata2<=100) {
+//     grade = 'A';
+// } else if (rata2<80 && rata2>=75) {
+//     grade = 'B';
+// } else if (rata2<75 && rata>=65) {
+//     grade = 'C';
+// } else if (rata2<65 && rata2>=45) {
+//     grade = 'D';
+// } else if (rata2<45 && rata2>0) {
+//     grade = 'E';
+// } else {
+//     grade = 'k';
+// };
+
+// console.log(rata2);
+// console.log(grade);

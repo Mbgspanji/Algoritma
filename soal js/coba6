@@ -1,0 +1,14 @@
+// let tinggiair = prompt("masukan ketinngian air saat ini");
+
+// if (tinggiair <= 500.0) {
+//     keadaan = 'Aman';
+// } else if (tinggiair >=500.1 && tinggiair <=600.0) {
+//     keadaan = 'Waspada';
+// } else if (tinggiair >=600.1 && tinggiair <=1650.0) {
+//     keadaan ='Siaga 2';
+// } else {
+//     keadaan ='Siaga 1';
+// };
+
+// console.log(`ketinggian saat ini ${tinggiair}m`);
+// console.log(`Keadaan saat ini adalah ${keadaan}`);
